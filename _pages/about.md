@@ -16,6 +16,11 @@ Previous positions:
 3. Temporary Tutorial Instructor in the Department of Mathematics, Faculty of Science, [University of Ruhuna](https://ruh.ac.lk/index.php/en/), Sri Lanka.
 
 
+Current Research:
+------
+I focus on developing advanced numerical methods that are higher-order accurate for hyperbolic partial differential equations.
+
+
 Education:
 ------
 1. PhD student at [RPTU Kaiserslautern-Landau](https://rptu.de/en/), Germany, under the supervision of [PD Dr. Raul Borsche](https://math.rptu.de/ags/techno/personen/dozentinnen-und-dozenten/borsche).
