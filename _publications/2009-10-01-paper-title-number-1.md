@@ -1,7 +1,7 @@
 ---
 title: "ABC"
 collection: publications
-category: conference paper
+category: conference papers
 permalink: /publication/2009-10-01-paper-title-number-2
 date: 2018-03-07
 venue: 'abc'
