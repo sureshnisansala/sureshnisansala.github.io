@@ -17,29 +17,26 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 OCT- 2024 MAR: Research Assistant
+  * [Flow and Material Simulation](https://www.itwm.fraunhofer.de/en/departments/sms.html)
+  * [Fraunhofer Institute for Industrial Mathematics](https://www.itwm.fraunhofer.de/), Kaiserslautern, Germany.
+  * Duties includes: impliment numerical scheme to solve chemical reactions
+  * Supervisor: Dr. Sebastian Osterroth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 NOV - 2019 SEP: Research Assistant
+  * [Technomathematics Group](https://math.rptu.de/en/wgs/techno)
+  * TU Kaiserslautern, Germany.
+  * Duties included: study the blood flow simulations
+  * Supervisor: PD Dr. Raul Borsche
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 FEB - 2018 JUL: Temporary Tutorial Instructor
+  * Department of Mathematics, Faculty of Science, University of Ruhuna, Sri Lanka.
+  * Duties included: Conduct tutorial classes
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MatLab
 
 Publications
 ======
@@ -59,6 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-%Service and leadership
-%======
-%* Currently signed in to 43 different slack teams
+
