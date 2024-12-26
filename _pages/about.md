@@ -25,5 +25,5 @@ Education:
 
 Current Research:
 ------
-I focus on developing advanced numerical methods that are higher-order accurate for hyperbolic partial differential equations.
+I focus on developing advanced numerical methods that are higher-order accurate for hyperbolic partial differential equations. I also study the MOOD (Multidimensional Optimal Order Detection) limiting strategy, which is useful when dealing with higher-order numerical methods.
 
