@@ -18,7 +18,7 @@ Previous positions:
 
 Education:
 ------
-1. PhD student at [RPTU Kaiserslautern-Landau](https://rptu.de/en/) under the supervision of [PD Dr. Raul Borsche](https://math.rptu.de/ags/techno/personen/dozentinnen-und-dozenten/borsche).
+1. PhD student at [RPTU Kaiserslautern-Landau](https://rptu.de/en/), Germany, under the supervision of [PD Dr. Raul Borsche](https://math.rptu.de/ags/techno/personen/dozentinnen-und-dozenten/borsche).
 2. MSc at TU Kaiserslautern, Germany under the supervision of [PD Dr. Raul Borsche](https://math.rptu.de/ags/techno/personen/dozentinnen-und-dozenten/borsche).
 3. BSc at University of Ruhuna, Sri Lanka, under the supervision of [prof. P.A.Jayantha](https://www.math.ruh.ac.lk/~jayantha/)
 
