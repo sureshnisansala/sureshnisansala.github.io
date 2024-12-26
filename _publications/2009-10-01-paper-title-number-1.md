@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Finite Volume Method for Simulating the Resistance Heating of a Rectangular Metal Sheet"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
