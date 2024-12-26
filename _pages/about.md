@@ -11,7 +11,9 @@ Hellow Visitor !!! I am K.A.Suresh Nisansala, Visiting Lecturer at [Mathematics 
 
 Previous positions:
 ------
-1. Research Assistant in the [Flow and Material Simulation](https://www.itwm.fraunhofer.de/en/departments/sms.html) Department at the [Fraunhofer Institute for Industrial Mathematics](https://www.itwm.fraunhofer.de/), Kaiserslautern, Germany, under the supervision of [Dr. Sebastian Osterroth](https://www.itwm.fraunhofer.de/en/departments/sms/staff/sebastian-osterroth.html)
+1. Research Assistant in the [Flow and Material Simulation](https://www.itwm.fraunhofer.de/en/departments/sms.html) Department at the [Fraunhofer Institute for Industrial Mathematics](https://www.itwm.fraunhofer.de/), Kaiserslautern, Germany, under the supervision of [Dr. Sebastian Osterroth](https://www.itwm.fraunhofer.de/en/departments/sms/staff/sebastian-osterroth.html).
+2. Research Assistant in the [technomathematics group] (https://math.rptu.de/en/wgs/techno) at TU-Kaiserslautern, under the supervision of [PD Dr. Raul Borsche](https://math.rptu.de/ags/techno/personen/dozentinnen-und-dozenten/borsche).
+3. Temporary Tutorial Instructor in the Department of Mathematics, Faculty of Science, University of Ruhuna.
 
 A data-driven personal website
 ======
