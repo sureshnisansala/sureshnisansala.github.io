@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Colombo"
-date: 2024-11 to 2025-03
-location: "Department of Mathematics"
+date: 2024-11-20
+location: " "
 ---
